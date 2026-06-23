@@ -95,7 +95,7 @@ tsv,Tabular data represented as tab-separated values in a text file,,,,,fileForm
 txt,Textual format,,,,,fileFormat,,http://edamontology.org/format_2330,,string,file
 vcf,"Variant Call Format (VCF) for sequence variation (indels, polymorphisms, structural variation)",,,,,fileFormat,,http://edamontology.org/format_3016,,string,file
 wiggle,Wiggle format (WIG) of a sequence annotation track that consists of a value for each sequence position,,,,,fileFormat,,http://edamontology.org/format_3005,,string,file
-xenium,Xenium Experiment File,,,,,fileFormat,,https://cf.10xgenomics.com/supp/xenium/xenium_documentation.html
+xenium,Xenium Experiment File,,,,,fileFormat,,https://cf.10xgenomics.com/supp/xenium/xenium_documentation.html,,string,file
 xml,eXtensible Markup Language (XML) format.,,,,,fileFormat,,http://edamontology.org/format_2332,,string,file
 yaml,YAML (YAML Ain't Markup Language) format.,,,,,fileFormat,,http://edamontology.org/format_3750,,string,file
 zip,zip is a format standard of a digital entity that is conformant with the PKWARE .ZIP file format specification,,,,,fileFormat,,http://purl.obolibrary.org/obo/OBI_0000325,,string,file
