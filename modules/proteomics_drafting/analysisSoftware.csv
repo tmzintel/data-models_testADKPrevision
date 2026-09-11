@@ -1,2 +1,2 @@
 Attribute,Description,Valid Values,DependsOn,Properties,Required,Parent,DependsOn Component,Source,Validation Rules,columnType,module
-analysisSoftware,Software used for data processing and quantification,"Alamar Pipeline, DIA-NN, MaxQuant, ProteomeDiscoverer, Skyline, Spectronaut",,,TRUE,ManifestColumn,,https://www.ebi.ac.uk/ols4/ontologies/ms/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FMS_1001456?lang=en,,string,proteomics
+analysisSoftware,Software used for data processing and quantification,"Alamar Pipeline, DIA-NN, MaxQuant, ProteomeDiscoverer, Skyline, Spectronaut",,,True,ManifestColumn,,https://www.ebi.ac.uk/ols4/ontologies/ms/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FMS_1001456?lang=en,,string,proteomics
