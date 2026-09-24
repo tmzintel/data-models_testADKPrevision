@@ -1,1 +1,2 @@
-
+Attribute,Description,Valid Values,DependsOn,Properties,Required,Parent,DependsOn Component,Source,Validation Rules,columnType,module
+ATTRIBUTE NAME, ATTRIBUTE DESCRIPTION,"VV1, VV2, VV3",,,True or False,PARENT ManifestColumn or ATTRIBUTE NAME,,,,COLUMN TYPE,MODULE NAME
